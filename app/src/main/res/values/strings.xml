@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HackerNewsApp</string>
+    <string name="title_top_stories">Top Stories</string>
+    <string name="title_newest_stories">Newest Stories</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="notification_channel_id">foreground_channel</string>
+    <string name="notification_update_items_title">Updating Stories</string>
+    <string name="notification_cancel">Cancel</string>
+</resources>
